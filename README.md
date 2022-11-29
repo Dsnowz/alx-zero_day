@@ -1,1 +1,1 @@
-My reade is now update
+My readme is now update
